@@ -1,0 +1,109 @@
+{
+  "products": {
+    "product1": {
+      "id": 0,
+      "img": "./img/banan.jpg",
+      "name": "Banan",
+      "price": 3.2,
+      "description": "A ripe banana rich in potassium and vitamins."
+    },
+    "product2": {
+      "id": 1,
+      "img": "./img/Strawberry.jpg",
+      "name": "Strawberry",
+      "price": 2.46,
+      "description": "Fresh and juicy strawberries, perfect for desserts."
+    },
+    "product3": {
+      "id": 2,
+      "img": "./img/Blueberry.jpg",
+      "name": "Blueberry",
+      "price": 4.0,
+      "description": "Ripe blueberries with a rich taste and antioxidants."
+    },
+    "product4": {
+      "id": 3,
+      "img": "./img/Apple.jpg",
+      "name": "Apple",
+      "price": 1.2,
+      "description": "A crispy and juicy red apple."
+    },
+    "product5": {
+      "id": 4,
+      "img": "./img/Orange.jpg",
+      "name": "Orange",
+      "price": 3.0,
+      "description": "Sweet orange rich in vitamin C."
+    },
+    "product6": {
+      "id": 5,
+      "img": "./img/Pear.jpg",
+      "name": "Pear",
+      "price": 2.8,
+      "description": "A juicy pear with a tender texture."
+    },
+    "product7": {
+      "id": 6,
+      "img": "./img/Pineapple.jpg",
+      "name": "Pineapple",
+      "price": 5.5,
+      "description": "Exotic pineapple with a vibrant tropical flavor."
+    },
+    "product8": {
+      "id": 7,
+      "img": "./img/avocado.jpg",
+      "name": "Avocado",
+      "price": 6.0,
+      "description": "A ripe avocado perfect for guacamole."
+    },
+    "product9": {
+      "id": 8,
+      "img": "./img/Grapefruit.jpg",
+      "name": "Grapefruit",
+      "price": 3.5,
+      "description": "Fresh grapefruit with a slight bitterness."
+    },
+    "product10": {
+      "id": 9,
+      "img": "./img/Watermelon.jpg",
+      "name": "Watermelon",
+      "price": 7.0,
+      "description": "A large and sweet watermelon, perfect for summer picnics."
+    },
+    "product11": {
+      "id": 10,
+      "img": "./img/Kiwi.jpg",
+      "name": "Kiwi",
+      "price": 4.2,
+      "description": "Kiwi with bright green flesh and a refreshing taste."
+    },
+    "product12": {
+      "id": 11,
+      "img": "./img/GreenGrape.jpg",
+      "name": "Green Grape",
+      "price": 3.8,
+      "description": "Sweet green grapes without seeds."
+    },
+    "product13": {
+      "id": 12,
+      "img": "./img/RedGrape.jpg",
+      "name": "Red Grape",
+      "price": 3.8,
+      "description": "Juicy red grapes with a rich flavor."
+    },
+    "product14": {
+      "id": 13,
+      "img": "./img/Mango.jpg",
+      "name": "Mango",
+      "price": 5.0,
+      "description": "Ripe mango with sweet and aromatic pulp."
+    },
+    "product15": {
+      "id": 14,
+      "img": "./img/Lemon.jpg",
+      "name": "Lemon",
+      "price": 2.5,
+      "description": "Fresh lemon rich in vitamin C, perfect for drinks and dishes."
+    }
+  }
+}
